@@ -1,4 +1,4 @@
-# AspnetMicroservices
+# MicroservicesNETCore-Monitoring, Observability and Resilience (MOR)
 
 **Refer the main repository -> https://github.com/aspnetrun/run-aspnetcore-microservices**
 
